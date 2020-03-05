@@ -1,0 +1,24 @@
+{
+    "type": "minecraft:crafting_shaped",
+    
+    "pattern":
+    [
+        "UUU",
+        "U U",
+        "U U"
+    ],
+    
+    "key":
+    {
+        "U":
+        {
+            "item": "op:uranium_ingot"
+        }
+    },
+    
+    "result":
+    {
+        "item": "op:uranium_leggings",
+        "count": 1
+    }
+}

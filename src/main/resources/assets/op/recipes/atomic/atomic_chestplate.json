@@ -1,0 +1,24 @@
+{
+    "type": "minecraft:crafting_shaped",
+    
+    "pattern":
+    [
+        "A A",
+        "AAA",
+        "AAA"
+    ],
+    
+    "key":
+    {
+        "A":
+        {
+            "item": "op:atomic_dust"
+        }
+    },
+    
+    "result":
+    {
+        "item": "op:atomic_chestplate",
+        "count": 1
+    }
+}

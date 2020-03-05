@@ -1,0 +1,29 @@
+{
+    "type": "minecraft:crafting_shaped",
+    
+    "pattern":
+    [
+        "BB",
+        " S",
+        " S"
+    ],
+    
+    "key":
+    {
+        "B":
+        {
+            "item": "op:steel_bar"
+        },
+        
+        "S":
+        {
+            "item": "minecraft:stick"
+        }
+    },
+    
+    "result":
+    {
+        "item": "op:steel_hoe",
+        "count": 1
+    }
+}

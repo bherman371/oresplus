@@ -1,0 +1,18 @@
+{ 
+    "type": "minecraft:crafting_shapeless",
+
+    "ingredients": 
+    [
+
+    {
+      "item": "op:atomic_block"
+    }
+    
+    ],
+
+    "result": 
+    {
+        "item": "op:atomic_dust",
+        "count": 9
+    }
+}

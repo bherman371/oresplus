@@ -1,0 +1,28 @@
+{
+    "type": "minecraft:crafting_shaped",
+    
+    "pattern":
+    [
+        "FU",
+        "UF"
+    ],
+    
+    "key":
+    {
+        "F":
+        {
+            "item": "op:francium_ingot"
+        },
+        
+        "U":
+        {
+            "item": "op:uranium_ingot"
+        }
+    },
+    
+    "result":
+    {
+        "item": "op:radon_gas",
+        "count": 1
+    }
+}

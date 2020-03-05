@@ -1,0 +1,169 @@
+//Items
+item.future_ingot.name=Future Ingot
+item.atomic_dust.name=Atomic Dust
+item.steel_bar.name=Steel Bar
+item.tellurium_ingot.name=Tellurium Ingot
+item.titanium_ingot.name=Titanium Ingot
+item.francium_ingot.name=Francium Ingot
+item.uranium_ingot.name=Uranium Ingot
+
+item.radon_gas.name=Radon Gas
+item.radium_ingot.name=Radium Ingot
+item.neptunium_ingot.name=Neptunium Ingot
+item.plutonium_ingot.name=Plutonium Ingot
+item.americium_ingot.name=Americium Ingot
+item.curium_ingot.name=Curium Ingot
+
+item.copper_ingot.name=Copper Ingot
+item.nickel_ingot.name=Nickel Ingot
+item.platinum_ingot.name=Platinum Ingot
+item.silver_ingot.name=Silver Ingot
+
+item.aluminum_ingot.name=Aluminum Ingot
+item.lead_ingot.name=Lead Ingot
+item.silicon_ingot.name=Silicon Ingot
+item.tin_ingot.name=Tin Ingot
+
+//Blocks
+tile.future_ore.name=Future Ore
+tile.future_block.name=Future Block
+
+tile.atomic_ore.name=Atomic Ore
+tile.atomic_block.name=Atomic Block
+
+tile.steel_block.name=Steel Block
+
+tile.tellurium_ore.name=Tellurium Ore
+tile.tellurium_block.name=Tellurium Block
+
+tile.titanium_ore.name=Titanium Ore
+tile.titanium_block.name=Titanium Block
+
+tile.francium_block.name=Francium Block
+
+tile.uranium_ore.name=Uranium Ore
+tile.uranium_block.name=Uranium Block
+
+tile.neptunium_block.name=Neptunium Block
+tile.plutonium_block.name=Plutonium Block
+tile.americium_block.name=Americium Block
+tile.curium_block.name=Curium Block
+
+tile.copper_ore.name=Copper Ore
+tile.copper_block.name=Copper Block
+
+tile.nickel_ore.name=Nickel Ore
+tile.nickel_block.name=Nickel Block
+
+tile.platinum_ore.name=Platinum Ore
+tile.platinum_block.name=Platinum Block
+
+tile.silver_ore.name=Silver Ore
+tile.silver_block.name=Silver Block
+
+tile.aluminum_ore.name=Aluminum Ore
+tile.aluminum_block.name=Aluminum Block
+
+tile.lead_ore.name=Lead Ore
+tile.lead_block.name=Lead Block
+
+tile.silicon_ore.name=Silicon Ore
+tile.silicon_block.name=Silicon Block
+
+tile.tin_ore.name=Tin Ore
+tile.tin_block.name=Tin Block
+
+//Tools
+item.future_sword.name=Future Sword
+item.future_shovel.name=Future Shovel
+item.future_pickaxe.name=Future Pickaxe
+item.future_hoe.name=Future Hoe
+item.future_axe.name=Future Axe
+
+item.atomic_sword.name=Atomic Sword
+item.atomic_shovel.name=Atomic Shovel
+item.atomic_pickaxe.name=Atomic Pickaxe
+item.atomic_hoe.name=Atomic Hoe
+item.atomic_axe.name=Atomic Axe
+
+item.steel_sword.name=Steel Sword
+item.steel_shovel.name=Steel Shovel
+item.steel_pickaxe.name=Steel Pickaxe
+item.steel_hoe.name=Steel Hoe
+item.steel_axe.name=Steel Axe
+item.steel_hammer.name=Steel Hammer
+
+item.tellurium_sword.name=Tellurium Sword
+item.tellurium_shovel.name=Tellurium Shovel
+item.tellurium_pickaxe.name=Tellurium Pickaxe
+item.tellurium_hoe.name=Tellurium Hoe
+item.tellurium_axe.name=Tellurium Axe
+
+item.titanium_sword.name=Titanium Sword
+item.titanium_shovel.name=Titanium Shovel
+item.titanium_pickaxe.name=Titanium Pickaxe
+item.titanium_hoe.name=Titanium Hoe
+item.titanium_axe.name=Titanium Axe
+
+item.francium_sword.name=Francium Sword
+item.francium_shovel.name=Francium Shovel
+item.francium_pickaxe.name=Francium Pickaxe
+item.francium_hoe.name=Francium Hoe
+item.francium_axe.name=Francium Axe
+
+item.uranium_sword.name=Uranium Sword
+item.uranium_shovel.name=Uranium Shovel
+item.uranium_pickaxe.name=Uranium Pickaxe
+item.uranium_hoe.name=Uranium Hoe
+item.uranium_axe.name=Uranium Axe
+
+item.copper_pickaxe.name=Copper Pickaxe
+item.nickel_pickaxe.name=Nickel Pickaxe
+item.platinum_pickaxe.name=Platinum Pickaxe
+item.silver_pickaxe.name=Silver Pickaxe
+item.aluminum_pickaxe.name=Aluminum Pickaxe
+item.lead_pickaxe.name=Lead Pickaxe
+item.silicon_pickaxe.name=Silicon Pickaxe
+item.tin_pickaxe.name=Tin Pickaxe
+
+//Armor
+item.future_helmet.name=Future Helmet
+item.future_chestplate.name=Future Chestplate
+item.future_leggings.name=Future Leggings
+item.future_boots.name=Future Boots
+
+item.atomic_helmet.name=Atomic Helmet
+item.atomic_chestplate.name=Atomic Chestplate
+item.atomic_leggings.name=Atomic Leggings
+item.atomic_boots.name=Atomic Boots
+
+item.steel_helmet.name=Steel Helmet
+item.steel_chestplate.name=Steel Chestplate
+item.steel_leggings.name=Steel Leggings
+item.steel_boots.name=Steel Boots
+
+item.tellurium_helmet.name=Tellurium Helmet
+item.tellurium_chestplate.name=Tellurium Chestplate
+item.tellurium_leggings.name=Tellurium Leggings
+item.tellurium_boots.name=Tellurium Boots
+
+item.titanium_helmet.name=Titanium Helmet
+item.titanium_chestplate.name=Titanium Chestplate
+item.titanium_leggings.name=Titanium Leggings
+item.titanium_boots.name=Titanium Boots
+
+item.francium_helmet.name=Francium Helmet
+item.francium_chestplate.name=Francium Chestplate
+item.francium_leggings.name=Francium Leggings
+item.francium_boots.name=Francium Boots
+
+item.uranium_helmet.name=Uranium Helmet
+item.uranium_chestplate.name=Uranium Chestplate
+item.uranium_leggings.name=Uranium Leggings
+item.uranium_boots.name=Uranium Boots
+
+//Tabs
+itemGroup.oresplusblockstab=Ores Plus Blocks Tab
+itemGroup.oresplusmaterialstab=Ores Plus Materials Tab
+itemGroup.oresplustoolstab=Ores Plus Tools Tab
+itemGroup.orespluscombattab=Ores Plus Combat Tab

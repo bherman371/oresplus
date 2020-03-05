@@ -1,0 +1,35 @@
+{
+    "type": "minecraft:crafting_shaped",
+    
+    "pattern":
+    [
+        " S ",
+        "UFU",
+        " U "
+    ],
+    
+    "key":
+    {
+        "S":
+        {
+            "item": "op:steel_hammer"
+        },
+        
+        "U":
+        {
+            "item": "op:uranium_ingot"
+        },
+        
+        "F":
+        {
+            "item": "minecraft:flint_and_steel"
+        }
+        
+    },
+    
+    "result":
+    {
+        "item": "op:francium_ingot",
+        "count": 1
+    }
+}

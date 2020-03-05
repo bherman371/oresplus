@@ -1,0 +1,24 @@
+{
+    "type": "minecraft:crafting_shaped",
+    
+    "pattern":
+    [
+        "S S",
+        "SSS",
+        "SSS"
+    ],
+    
+    "key":
+    {
+        "S":
+        {
+            "item": "op:steel_bar"
+        }
+    },
+    
+    "result":
+    {
+        "item": "op:steel_chestplate",
+        "count": 1
+    }
+}

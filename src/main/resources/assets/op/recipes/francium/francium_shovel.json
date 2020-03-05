@@ -1,0 +1,29 @@
+{
+    "type": "minecraft:crafting_shaped",
+    
+    "pattern":
+    [
+        "F",
+        "S",
+        "S"
+    ],
+    
+    "key":
+    {
+        "F":
+        {
+            "item": "op:francium_ingot"
+        },
+        
+        "S":
+        {
+            "item": "minecraft:stick"
+        }
+    },
+    
+    "result":
+    {
+        "item": "op:francium_shovel",
+        "count": 1
+    }
+}

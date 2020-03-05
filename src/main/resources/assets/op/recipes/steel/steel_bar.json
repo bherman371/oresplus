@@ -1,0 +1,34 @@
+{
+    "type": "minecraft:crafting_shaped",
+    
+    "pattern":
+    [
+        " F ",
+        "III",
+        " L "
+    ],
+    
+    "key":
+    {
+        "F":
+        {
+            "item": "minecraft:flint_and_steel"
+        },
+        
+        "I":
+        {
+            "item": "minecraft:iron_ingot"
+        },
+        
+        "L":
+        {
+            "item": "minecraft:lava_bucket"
+        }
+    },
+    
+    "result":
+    {
+        "item": "op:steel_bar",
+        "count": 1
+    }
+}

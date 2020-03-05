@@ -1,0 +1,29 @@
+{
+    "type": "minecraft:crafting_shaped",
+    
+    "pattern":
+    [
+        "FFF",
+        " S ",
+        " S "
+    ],
+    
+    "key":
+    {
+        "F":
+        {
+            "item": "op:future_ingot"
+        },
+        
+        "S":
+        {
+            "item": "minecraft:stick"
+        }
+    },
+    
+    "result":
+    {
+        "item": "op:future_pickaxe",
+        "count": 1
+    }
+}

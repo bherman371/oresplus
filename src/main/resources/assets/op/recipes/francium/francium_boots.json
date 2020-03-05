@@ -1,0 +1,23 @@
+{
+    "type": "minecraft:crafting_shaped",
+    
+    "pattern":
+    [
+        "F F",
+        "F F"
+    ],
+    
+    "key":
+    {
+        "F":
+        {
+            "item": "op:francium_ingot"
+        }
+    },
+    
+    "result":
+    {
+        "item": "op:francium_boots",
+        "count": 1
+    }
+}

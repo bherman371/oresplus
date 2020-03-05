@@ -1,0 +1,29 @@
+{
+    "type": "minecraft:crafting_shaped",
+    
+    "pattern":
+    [
+        "SSS",
+        " T ",
+        " T "
+    ],
+    
+    "key":
+    {
+        "S":
+        {
+            "item": "op:silver_ingot"
+        },
+        
+        "T":
+        {
+            "item": "minecraft:stick"
+        }
+    },
+    
+    "result":
+    {
+        "item": "op:silver_pickaxe",
+        "count": 1
+    }
+}

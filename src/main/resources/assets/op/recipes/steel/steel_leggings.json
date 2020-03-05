@@ -1,0 +1,24 @@
+{
+    "type": "minecraft:crafting_shaped",
+    
+    "pattern":
+    [
+        "SSS",
+        "S S",
+        "S S"
+    ],
+    
+    "key":
+    {
+        "S":
+        {
+            "item": "op:steel_bar"
+        }
+    },
+    
+    "result":
+    {
+        "item": "op:steel_leggings",
+        "count": 1
+    }
+}

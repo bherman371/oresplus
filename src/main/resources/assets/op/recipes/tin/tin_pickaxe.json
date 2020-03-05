@@ -1,0 +1,29 @@
+{
+    "type": "minecraft:crafting_shaped",
+    
+    "pattern":
+    [
+        "TTT",
+        " S ",
+        " S "
+    ],
+    
+    "key":
+    {
+        "T":
+        {
+            "item": "op:tin_ingot"
+        },
+        
+        "S":
+        {
+            "item": "minecraft:stick"
+        }
+    },
+    
+    "result":
+    {
+        "item": "op:tin_pickaxe",
+        "count": 1
+    }
+}

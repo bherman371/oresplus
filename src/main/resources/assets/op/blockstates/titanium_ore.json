@@ -1,0 +1,5 @@
+{
+    "variants": {
+        "normal": { "model": "op:titanium_ore" }
+    }
+}

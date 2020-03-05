@@ -1,0 +1,24 @@
+{
+    "type": "minecraft:crafting_shaped",
+    
+    "pattern":
+    [
+        "PPP",
+        "PPP",
+        "PPP"
+    ],
+    
+    "key":
+    {
+        "P":
+        {
+            "item": "op:plutonium_ingot"
+        }
+    },
+    
+    "result":
+    {
+        "item": "op:plutonium_block",
+        "count": 1
+    }
+}

@@ -1,0 +1,18 @@
+{ 
+    "type": "minecraft:crafting_shapeless",
+
+    "ingredients": 
+    [
+
+    {
+      "item": "op:silicon_block"
+    }
+    
+    ],
+
+    "result": 
+    {
+        "item": "op:silicon_ingot",
+        "count": 9
+    }
+}

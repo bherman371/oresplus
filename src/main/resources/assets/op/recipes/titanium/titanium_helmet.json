@@ -1,0 +1,23 @@
+{
+    "type": "minecraft:crafting_shaped",
+    
+    "pattern":
+    [
+        "TTT",
+        "T T"
+    ],
+    
+    "key":
+    {
+        "T":
+        {
+            "item": "op:titanium_ingot"
+        }
+    },
+    
+    "result":
+    {
+        "item": "op:titanium_helmet",
+        "count": 1
+    }
+}

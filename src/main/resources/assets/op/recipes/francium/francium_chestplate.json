@@ -1,0 +1,24 @@
+{
+    "type": "minecraft:crafting_shaped",
+    
+    "pattern":
+    [
+        "F F",
+        "FFF",
+        "FFF"
+    ],
+    
+    "key":
+    {
+        "F":
+        {
+            "item": "op:francium_ingot"
+        }
+    },
+    
+    "result":
+    {
+        "item": "op:francium_chestplate",
+        "count": 1
+    }
+}

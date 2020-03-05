@@ -1,0 +1,29 @@
+{
+    "type": "minecraft:crafting_shaped",
+    
+    "pattern":
+    [
+        "LLL",
+        " S ",
+        " S "
+    ],
+    
+    "key":
+    {
+        "L":
+        {
+            "item": "op:lead_ingot"
+        },
+        
+        "S":
+        {
+            "item": "minecraft:stick"
+        }
+    },
+    
+    "result":
+    {
+        "item": "op:lead_pickaxe",
+        "count": 1
+    }
+}
